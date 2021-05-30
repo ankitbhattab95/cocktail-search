@@ -1,5 +1,5 @@
 
-## LIVE demo  [here]("https://ankitbhattab95.github.io/cocktail-search/")
+## LIVE demo  [here](https://ankitbhattab95.github.io/cocktail-search/)
 
 # Cocktail search app
 - Follow below step to run this app in your local machine
