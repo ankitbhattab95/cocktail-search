@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ankitbhattab95/cocktail-search/static/css/main.de8b9908.chunk.css",
+    "main.js": "/ankitbhattab95/cocktail-search/static/js/main.ee24f1d0.chunk.js",
+    "main.js.map": "/ankitbhattab95/cocktail-search/static/js/main.ee24f1d0.chunk.js.map",
+    "runtime-main.js": "/ankitbhattab95/cocktail-search/static/js/runtime-main.c8db8b56.js",
+    "runtime-main.js.map": "/ankitbhattab95/cocktail-search/static/js/runtime-main.c8db8b56.js.map",
+    "static/js/2.4ee8e549.chunk.js": "/ankitbhattab95/cocktail-search/static/js/2.4ee8e549.chunk.js",
+    "static/js/2.4ee8e549.chunk.js.map": "/ankitbhattab95/cocktail-search/static/js/2.4ee8e549.chunk.js.map",
+    "static/js/3.3da2627d.chunk.js": "/ankitbhattab95/cocktail-search/static/js/3.3da2627d.chunk.js",
+    "static/js/3.3da2627d.chunk.js.map": "/ankitbhattab95/cocktail-search/static/js/3.3da2627d.chunk.js.map",
+    "index.html": "/ankitbhattab95/cocktail-search/index.html",
+    "static/css/main.de8b9908.chunk.css.map": "/ankitbhattab95/cocktail-search/static/css/main.de8b9908.chunk.css.map",
+    "static/js/2.4ee8e549.chunk.js.LICENSE.txt": "/ankitbhattab95/cocktail-search/static/js/2.4ee8e549.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8db8b56.js",
+    "static/js/2.4ee8e549.chunk.js",
+    "static/css/main.de8b9908.chunk.css",
+    "static/js/main.ee24f1d0.chunk.js"
+  ]
+}
